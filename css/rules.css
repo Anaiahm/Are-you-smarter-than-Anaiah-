@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    size: 200px;
+    color:hotpink;
+    font-family:"Bubbler One", sans-serif; ;
+    margin-top: 150px;
+}
+
+ul li {
+    size: 50px;
+    color: lightpink;
+    font-family: "Bubbler One", sans-serif;
+   text-align: center;
+    
+} 
+p{
+    margin: 0;
+    border: solid hotpink;
+    size: 50px;
+    color: white;
+    font-family: "Bubbler One", sans-serif;
+    text-align: center;
+}
