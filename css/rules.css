@@ -21,3 +21,5 @@ p{
     font-family: "Bubbler One", sans-serif;
     text-align: center;
 }
+body {background-image: url("catfront.png");
+}
